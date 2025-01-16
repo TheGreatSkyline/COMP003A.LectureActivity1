@@ -1,4 +1,10 @@
-﻿// Import namespace
+﻿/*
+ * Author: Joaquin Gomez
+ * Course: COMP003A
+ * Faculty: Jonathan Cruz
+ * Purpose: Basic console app
+ */
+// Import namespace
 namespace COMP003A.LectureActivity1
 {
     // Class declaration
